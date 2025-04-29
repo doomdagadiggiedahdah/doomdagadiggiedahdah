@@ -20,19 +20,7 @@ AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interp
 - **Large Scale Audio Analysis with Whisper** - Scalable emergency indicator processing with configurable parallel GPU scaling
 - **Voice Note to Obsidian Integration** - Automated transcription pipeline with keyword recognition
 - **Cortext.io Semantic Primitive LLM** - Revived and documented lightweight LLM based on semantic primitives
-
-### Technical Focus
-
-- 🤖 LLM Agent Benchmarking
-- 🧠 Mechanistic Interpretability
-- 🔊 Large-scale Audio Processing
-- 🔐 Zero-knowledge Proofs
-- 📝 Technical Writing
-
-### Community
-
 - Co-organizer of an [AI paper reading group](https://noisebridgeai.xyz/)
-- Independent researcher on formal methods and abstract algebra
 
 ### Get in Touch
 
