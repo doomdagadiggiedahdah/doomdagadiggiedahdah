@@ -12,8 +12,8 @@ AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interp
 
 ### Research Publications
 
-- **[GameBench: Benchmarking LLM Agents through Games](https://arxiv.org/abs/2406.06613)** - Evaluating strategic reasoning in LLM agents
-- **[Meta Models: Understanding Representational Learning](https://arxiv.org/abs/2410.02472)** - Mechanistic interpretability research
+- **[GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)** - Evaluating strategic reasoning in LLM agents
+- **[Meta-Models: An Architecture for Decoding LLM Behaviors Through Interpreted Embeddings and Natural Language](https://arxiv.org/abs/2410.02472)** - Mechanistic interpretability research
 
 ### Current Projects
 
@@ -24,7 +24,8 @@ AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interp
 
 ### Get in Touch
 
-- 📧 Email: matdallen@gmail.com
+- Email: mat d allen @gmail.com
+- Blog: https://enjoy.monster/
 
 ---
 
