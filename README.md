@@ -12,7 +12,7 @@ AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interp
 
 ### Research Publications
 
-- **[GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)**
+- **[GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)** - [NeurIPS award](https://neurips.cc/virtual/2024/106557)
 - **[Meta-Models: An Architecture for Decoding LLM Behaviors Through Interpreted Embeddings and Natural Language](https://arxiv.org/abs/2410.02472)**
 
 ### Recent Projects
