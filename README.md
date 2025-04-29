@@ -21,3 +21,4 @@ AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interp
 - Email: mat d allen @gmail.com
 - Blog: https://enjoy.monster/
 - Twitter: https://x.com/TheMatAllen/
+- Linkedin: https://www.linkedin.com/in/mat-allen-2bbb251b1/
