@@ -5,11 +5,12 @@
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=flat-square&logo=google-scholar)](https://scholar.google.com/citations?hl=en&user=k0UGdtsAAAAJ)
 
 ### About Me
-AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interpretability. My NeurIPS 2024 paper "GameBench" was accepted to the Language Gamification Workshop. I focus on the intersection of type theory, SWE, abstract algebra, and formal methods.
+AI researcher with published work in LLM Agent Benchmarks and Mechanistic Interpretability. My NeurIPS 2024 paper "GameBench" was accepted to the Language Gamification Workshop.
 
 ### Research Publications
 - **[GameBench: Evaluating Strategic Reasoning Abilities of LLM Agents](https://arxiv.org/abs/2406.06613)** - [NeurIPS award](https://neurips.cc/virtual/2024/106557)
 - **[Meta-Models: An Architecture for Decoding LLM Behaviors Through Interpreted Embeddings and Natural Language](https://arxiv.org/abs/2410.02472)**
+- **[Parameterized Synthetic Text Generation with SimpleStories](https://arxiv.org/abs/2504.09184)**
 
 ### Recent Projects
 - **[Large Scale Audio Analysis with Whisper](https://github.com/doomdagadiggiedahdah/copterSpotWhisper)** - Scalable emergency indicator processing with configurable parallel GPU scaling
